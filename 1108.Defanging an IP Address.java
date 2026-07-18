@@ -6,4 +6,4 @@ class Solution {
 //Defanging-->Converting an IP address into safe format by replacing "." with "[.]"
 
 /* Practical Approach:
-The question asks us to replace every '.' in the IP address with "[.]" */
+    The question asks us to replace every '.' in the IP address with "[.]" */
