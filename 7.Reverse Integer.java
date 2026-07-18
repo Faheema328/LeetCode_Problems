@@ -18,10 +18,15 @@ class Solution {
         return rev;
     }
 }
-
-
 /* MAX_VALUE/10=64 & MIN_VALUE/10=-64 (Safer values)
 
 rev>MAX_VALUE/10(From 65) || rev<MIN_VALUE/10(From -69)-->Exceeds the int limit
 rev==MAX_VALUE(64)-->(0-7)[<=7]-->Can be valid
 rev==MIN_VALUE(64)-->(0 to -8)[>=-8]-->Can be valid */
+
+/* Practical Approach:
+    Extract the last digit of the number one by one
+    Build the reversed number by adding each extracted digit
+    Remove the last digit after processing it
+    Check for overflow before adding the next digit
+    Return the reversed number */
