@@ -9,9 +9,19 @@ class Solution {
             if(rev<Integer.MIN_VALUE/10 || rev==Integer.MIN_VALUE/10 && digit<-8){
                 return 0;
             }
+            /* Overflow is checked before updating rev
+            Bcoz,
+                Checking after updating is useless-->the overflow has already occurred */   
             rev=rev*10+digit;
             x=x/10;
         }
         return rev;
     }
 }
+
+
+/* MAX_VALUE/10=64 & MIN_VALUE/10=-64 (Safer values)
+
+rev>MAX_VALUE/10(From 65) || rev<MIN_VALUE/10(From -69)-->Exceeds the int limit
+rev==MAX_VALUE(64)-->(0-7)[<=7]-->Can be valid
+rev==MIN_VALUE(64)-->(0 to -8)[>=-8]-->Can be valid */
