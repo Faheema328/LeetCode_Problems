@@ -5,7 +5,7 @@ class Solution {
                 return i;
             }
             if(nums[i]>target){//Target should be inserted at this index
-                return i
+                return i;
             }
         }
         return nums.length;//Target is greater than all elements-->so insert at the end
