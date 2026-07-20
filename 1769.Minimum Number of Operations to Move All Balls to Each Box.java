@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<boxes.length();i++){//Consider each box as the destination
             int operations=0;//Counts total operations for the current destination box
             for(int j=0;j<boxes.length();j++){//Checks every box to find the balls
-                if(boxes.charAt(j)=='1'){//
+                if(boxes.charAt(j)=='1'){
                     operations=operations+Math.abs(i-j);//Add the distance(total no. of steps)required to move the ball to the destination box
                 }
             }
