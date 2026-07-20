@@ -17,6 +17,8 @@ class Solution {
         return newArr;
     }
 }
+//Parity-->Even or Odd
+
 /* Practical Approach:
     The question asks us to place all even numbers before all odd numbers
     Traverse the array and copy all even numbers into a new array
