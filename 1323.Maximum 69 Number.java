@@ -9,6 +9,7 @@ class Solution {
             }
         }
         String str=new String(digits);//Converts the character array into a String by creating a String object from it(char array)
+        //String(...)-->is a constructor-->new is needed
         return Integer.parseInt(str);//parseInt()accepts only a String,not a character array
     }
 }
