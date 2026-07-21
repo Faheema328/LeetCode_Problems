@@ -6,7 +6,7 @@ class Solution {
         long sumS=0;//Stores the sum of ASCII values of characters in string 's'
         long sumT=0;
 
-        for(char c : sChars){//Enhanced for loop-->Used to traverse each character of string 's'
+        for(char c : sChars){//Enhanced for loop-->Used to traverse each character of the array 'sChars' by storing it in the variable 'c'
             sumS=sumS+c;//Add the ASCII value of the current char
         }
 
