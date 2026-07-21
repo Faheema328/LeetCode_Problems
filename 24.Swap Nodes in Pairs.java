@@ -15,6 +15,7 @@ class Solution {
         }
         ListNode dummy=new ListNode(0);//Create a dummy node-->Makes swapping easy
         dummy.next=head;//Connect the newNode(dummy node)to the LL
+        //dummy.next-->always points to the new first node,so we don't lose access to the LL(after swap)
         ListNode prev=dummy;//prev-->points to the node before the current pair
         while(prev.next != null && prev.next.next != null){//Continue only until there are at least two nodes available to swap
             ListNode first=prev.next;
