@@ -4,7 +4,7 @@ class Solution {
         int oddSum=n*n;//Sum of the first 'n' odd numbers = n²
         int evenSum=n*(n+1);//Sum of the first 'n' even numbers 
 
-        int gcd=findGCD(oddSum,evenSum);
+        int gcd=findGCD(oddSum,evenSum); 
         return gcd;
     }
     public int findGCD(int a,int b){
