@@ -9,23 +9,24 @@
  * }
  */
 class Solution {
-    public ListNode removeNthFromEnd(ListNode head, int n) {
-        int count=0;//Gives the count of total number of nodes in the LL
+    public ListNode removeNthFromEnd(ListNode head, int n) {//ListNode-->LL
+        int size=0;//Gives the count of total number of nodes in the LL
         ListNode curr=head;//Temp pointer for traversing
 
         while(curr != null){//Loop to count the total number of nodes
-            count++;
+            size++;
             curr=curr.next;
         }
-        if(count==n){//The nth node from the end is the 1st node from the beginning-->so return the 2nd node as the new head then the first node automatically loses access(Removed from the LL)
+        if(size==n){//The nth node from the end is the 1st node from the beginning-->so return the 2nd node as the new head then the first node automatically loses access(Removed from the LL)
             return head.next;
         }
         int pos=count-n;//Position of the node just before the one to be deleted
-        curr=head;
+        //Position of nth node from start=size-n+1
+        prev=head;
         for(int i=1;i<pos;i++){//Move to the node before the node to be deleted(start from 1 since current is already at the first node)
-            curr=curr.next;//Keep moving current until it reaches the node before the one to be deleted
+            prev=prev.next;//Keep moving current until it reaches the node before the one to be deleted
         }
-        curr.next=curr.next.next;//From 3->4->5 to 3->5(Skipping the nth node from n)
+        prev.next=prev.next.next;//From 3->4->5 to 3->5(Skipping the nth node from n)
         return head;//Stores the reference to the entire LL
     }
 }
