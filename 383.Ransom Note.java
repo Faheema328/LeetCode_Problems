@@ -1,12 +1,11 @@
 class Solution {
-    public boolean containsNearbyDuplicate(int[] nums, int k) {
-        Map<Integer, Integer> seen = new HashMap<>();
-        for (int i = 0; i < nums.length; i++) {
-            if (seen.containsKey(nums[i]) && i - seen.get(nums[i]) <= k) {
-                return true;
-            }
-            seen.put(nums[i], i);
+    public boolean canConstruct(String ransomNote, String magazine) {
+        int[] count = new int[26];
+        for (char c : magazine.toCharArray()) count[c - 'a']++;
+        for (char c : ransomNote.toCharArray()) {
+            count[c - 'a']--;
+            if (count[c - 'a'] < 0) return false;
         }
-        return false;
+        return true;
     }
 }
