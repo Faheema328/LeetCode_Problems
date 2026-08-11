@@ -18,3 +18,11 @@ class Solution {
         return l;//Return the list containing all the Push and Pop operations
     }
 }
+
+/*Practical Approach:
+    Process the numbers from 1 to n in the same order as the stream
+    Compare each number with the next required element in target
+    If it matches → Push it and move to the next target element
+    If it does not match → Push it and immediately Pop it
+    Do not increment j for an unwanted number because we are still waiting for the same target element
+    Stop when all target elements are found*/
