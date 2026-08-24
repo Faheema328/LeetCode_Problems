@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -74,8 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Faheema328/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Faheema328/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
