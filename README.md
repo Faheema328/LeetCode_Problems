@@ -67,6 +67,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Faheema328/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/Faheema328/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Faheema328/LeetCode_Problems/tree/master/2235-add-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Faheema328/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Faheema328/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
