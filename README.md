@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1528-shuffle-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/1528-shuffle-string) |
+| [2942-find-words-containing-character](https://github.com/Faheema328/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Faheema328/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Faheema328/LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/1528-shuffle-string) |
+| [2942-find-words-containing-character](https://github.com/Faheema328/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 ## Counting Sort
 |  |
 | ------- |
