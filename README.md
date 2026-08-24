@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Faheema328/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Faheema328/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Faheema328/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
@@ -79,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Faheema328/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Faheema328/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Faheema328/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Faheema328/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
