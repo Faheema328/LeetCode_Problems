@@ -26,13 +26,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Faheema328/LeetCode_Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Faheema328/LeetCode_Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 ## Simulation
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
