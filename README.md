@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [1528-shuffle-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [1528-shuffle-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/1528-shuffle-string) |
 <!---LeetCode Topics End-->
