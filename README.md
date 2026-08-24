@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Faheema328/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/0344-reverse-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Faheema328/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Faheema328/LeetCode_Problems/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Faheema328/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Faheema328/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Faheema328/LeetCode_Problems/tree/master/0709-to-lower-case) |
