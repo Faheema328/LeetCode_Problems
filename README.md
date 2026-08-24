@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1528-shuffle-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/1528-shuffle-string) |
+| [1929-concatenation-of-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Faheema328/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Faheema328/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Faheema328/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Faheema328/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
 | ------- |
