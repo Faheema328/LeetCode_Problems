@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Faheema328/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/Faheema328/LeetCode_Problems/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Faheema328/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Faheema328/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Faheema328/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Faheema328/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0705-design-hashset](https://github.com/Faheema328/LeetCode_Problems/tree/master/0705-design-hashset) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Faheema328/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Faheema328/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/Faheema328/LeetCode_Problems/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/Faheema328/LeetCode_Problems/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Faheema328/LeetCode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Faheema328/LeetCode_Problems/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1323-maximum-69-number) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Faheema328/LeetCode_Problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
