@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Faheema328/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Faheema328/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Faheema328/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Faheema328/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Faheema328/LeetCode_Problems/tree/master/0389-find-the-difference) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Faheema328/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Faheema328/LeetCode_Problems/tree/master/0389-find-the-difference) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-design-parking-system](https://github.com/Faheema328/LeetCode_Problems/tree/master/1603-design-parking-system) |
 ## Bracket Sequences
@@ -187,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Faheema328/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
