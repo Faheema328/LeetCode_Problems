@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Faheema328/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Faheema328/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Faheema328/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Faheema328/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Faheema328/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Faheema328/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1603-design-parking-system](https://github.com/Faheema328/LeetCode_Problems/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Faheema328/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Faheema328/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 ## String
 |  |
 | ------- |
