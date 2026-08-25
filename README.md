@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1528-shuffle-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/1528-shuffle-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Faheema328/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Faheema328/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Faheema328/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Faheema328/LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Faheema328/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [1528-shuffle-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/1528-shuffle-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Faheema328/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Faheema328/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Faheema328/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 ## Counting Sort
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Faheema328/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
