@@ -7,6 +7,7 @@ class MyHashSet {
     //private-->Prevents the internal array from being accessed or modified directly from outside the class
     public MyHashSet() {
         set=new boolean[1000001];//Keys can range from 0 to 10^6-->So we need indices from 0 to 1,000,000-->Initially, all values in the boolean array are false
+        //Size is 1000001 bcoz keys range from 0 to 1000000 and array indexing starts at 0
     }
     
     public void add(int key) {//The index itself represents the key and the boolean value tells us whether that key is present or not
