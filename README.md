@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Faheema328/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Faheema328/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Faheema328/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/Faheema328/LeetCode_Problems/tree/master/2235-add-two-integers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Faheema328/LeetCode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Faheema328/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Faheema328/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
