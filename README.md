@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Faheema328/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Faheema328/LeetCode_Problems/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Faheema328/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/Faheema328/LeetCode_Problems/tree/master/1037-valid-boomerang) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Faheema328/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Faheema328/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Faheema328/LeetCode_Problems/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Faheema328/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Faheema328/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/Faheema328/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
