@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Faheema328/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Faheema328/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0283-move-zeroes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Faheema328/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Faheema328/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Faheema328/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Faheema328/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Faheema328/LeetCode_Problems/tree/master/1037-valid-boomerang) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Faheema328/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
@@ -260,4 +263,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Faheema328/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
