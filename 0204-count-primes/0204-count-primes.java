@@ -2,7 +2,7 @@
     Initially assume every number from 2 to n - 1 is prime
     For every prime number, mark its multiples as false
     Start j from i * i because smaller multiples are already marked by smaller prime factors
-    Use i * i < n to avoid unnecessary processing of i values when no new composite multiples need to be marked within n
+    Use i * i < n to avoid unnecessary processing of 'i' values when no new composite multiples need to be marked within n
     Finally count all numbers that are still marked true */
 class Solution {
     public int countPrimes(int n) {
@@ -11,13 +11,13 @@ class Solution {
             isPrime[i]=true;
         }
         for(int i=2;i*i<n;i++){
-            if(isPrime[i]){//If it is still true-->it is a prime number
-            //i*i < n-->We only process 'i' while it can produce a new composite multiple within the required rang-->Once i*i reaches or exceeds n, further 'i' values are unnecessary to process
+            if(isPrime[i]){//Only a number still marked true can be prime
+            //i*i < n-->We only process 'i' while it can produce a new composite multiple within the required range-->Once i*i reaches or exceeds n, further 'i' values are unnecessary to process
             //Non-prime's(composites') multiples are already marked false by their prime factors-->so processing them again is unnecessary 
                 for(int j=i*i;j<n;j=j+i){//Start j from i*i-->Smaller multiples of 'i' are already marked by smaller prime factors
                 //j < n-→ only consider numbers less than 'n'
                 //j += i-→ jump to the next multiple of 'i' 
-                    isPrime[j]=false;//Mark all the multiples of 'i'(composite) as false
+                    isPrime[j]=false;//Mark all the multiples of 'i'(composite numbers) as false
                 }
             }
         }
