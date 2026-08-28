@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Faheema328/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Faheema328/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Faheema328/LeetCode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Faheema328/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Faheema328/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
