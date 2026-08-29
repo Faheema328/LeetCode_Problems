@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Faheema328/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Faheema328/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Faheema328/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Faheema328/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Faheema328/LeetCode_Problems/tree/master/0412-fizz-buzz) |
