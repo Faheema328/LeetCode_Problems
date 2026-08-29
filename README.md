@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Faheema328/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Faheema328/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Faheema328/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Faheema328/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Faheema328/LeetCode_Problems/tree/master/1037-valid-boomerang) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Faheema328/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Faheema328/LeetCode_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Faheema328/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Faheema328/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Faheema328/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Faheema328/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Faheema328/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Faheema328/LeetCode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
