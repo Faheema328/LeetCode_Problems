@@ -16,6 +16,7 @@ class Solution {
         int slow=nums[0];//Initialize the slow and fast pointers at the value stored at index 0
         int fast=nums[0];
         do{//Finding a meeting point inside the cycle-->We need it bcoz it proves that a cycle exists and gives us a point inside the cycle-->The meeting point itself is not necessarily the duplicate-->We use it to find the cycle entrance
+        //We temporarily view nums[index] as the next pointer of index-->So nums[currentIndex] gives us the next position to move to(Ex: .next in a LL)
             slow=nums[slow];//Slow moves 1 step
             fast=nums[nums[fast]];//Fast moves 2 steps
         }while(slow != fast);
