@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Faheema328/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Faheema328/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Faheema328/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Faheema328/LeetCode_Problems/tree/master/1037-valid-boomerang) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Faheema328/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Faheema328/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Faheema328/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Faheema328/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
