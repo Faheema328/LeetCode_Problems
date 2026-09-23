@@ -22,7 +22,7 @@ class Solution {
     Find the GCD of both sums using the Euclidean Algorithm
     Return the GCD */
 
-    //Euclidean Algorithm-->GCD(a,b)=GCD(b,a%b)
+    //Euclidean Algorithm--->GCD(a,b)=GCD(b,a%b)
 
     /* In mathematics-->"first n even numbers" almost always means the first positive even numbers-->unless the problem explicitly says to include 0 */
 
