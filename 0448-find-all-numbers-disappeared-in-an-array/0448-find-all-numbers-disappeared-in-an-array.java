@@ -1,12 +1,12 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         ArrayList<Integer> list=new ArrayList<Integer>();
-        for(int i=0;i<nums.length;i++){//For every number, find its corresponding index and mark that index as -ve to show that the number has appeared-->Math.abs() is needed bcoz we ourselves make some array values negative while marking, but we still need their original +ve number to find the correct index
+        for(int i=0;i<nums.length;i++){//For every number, find its corresponding index and mark that index as -ve to show that the number(nums[i]) has appeared-->Math.abs() is needed bcoz we ourselves make some array values negative while marking, but we still need their original +ve number to find the correct index
             int index=Math.abs(nums[i])-1;//'-1' is used bcoz array indexes start from 0 while the numbers in the array start from 1
             nums[index]=-Math.abs(nums[index]);//Mark this index's value as -ve to indicate that the corresponding number has appeared-->Math.abs() makes the value +ve first and then '-' makes it -ve so the mark always stays -ve
         /* After marking:
-            Negative value → corresponding number is present
-            Positive value → corresponding number is missing */
+            Negative value-→ corresponding number is present
+            Positive value-→ corresponding number is missing */
         }
         for(int i=0;i<nums.length;i++){
             if(nums[i]>0){
