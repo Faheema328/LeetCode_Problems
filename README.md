@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Faheema328/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Faheema328/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Faheema328/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Faheema328/LeetCode_Problems/tree/master/2235-add-two-integers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Faheema328/LeetCode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Faheema328/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Faheema328/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Faheema328/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Faheema328/LeetCode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
