@@ -1,12 +1,12 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int profit=0;
+        int maxProfit=0;
         for(int i=1;i<prices.length;i++){//Start from day 1 bcoz we compare today's price with the prev day's price
             if(prices[i]>prices[i-1]){//If today's price is higher than yesterday's-->we have a profitable increase
-                profit=profit+(prices[i]-prices[i-1]);//Add this day's increase to the total profit-->We accumulate profit bcoz multiple transactions are allowed
+                maxProfit=maxProfit+(prices[i]-prices[i-1]);//Add this day's increase to the total profit-->We accumulate profit bcoz multiple transactions are allowed
             }
         }
-        return profit;//Return the total profit collected from all profitable increases
+        return maxProfit;//Return the total profit collected from all profitable increases
     }
 }
 /* Practical Approach:
