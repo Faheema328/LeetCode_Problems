@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Faheema328/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/Faheema328/LeetCode_Problems/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/Faheema328/LeetCode_Problems/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Faheema328/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Faheema328/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Faheema328/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/Faheema328/LeetCode_Problems/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
