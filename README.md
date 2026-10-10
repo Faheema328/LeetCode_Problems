@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Faheema328/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Faheema328/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Faheema328/LeetCode_Problems/tree/master/0705-design-hashset) |
+| [0724-find-pivot-index](https://github.com/Faheema328/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Faheema328/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Faheema328/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Faheema328/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Faheema328/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Faheema328/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Greedy
