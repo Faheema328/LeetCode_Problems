@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Faheema328/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Faheema328/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Faheema328/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Faheema328/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Faheema328/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Faheema328/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Faheema328/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Faheema328/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Faheema328/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Faheema328/LeetCode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Faheema328/LeetCode_Problems/tree/master/0189-rotate-array) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Faheema328/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Faheema328/LeetCode_Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
