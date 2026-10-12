@@ -15,3 +15,11 @@ class Solution {
         return maxLength;
     }
 }
+/* Practical Approach:
+    1. Initialize left = 0, maxLength = 0 and an empty HashSet
+    2. Traverse the string using right
+    3. While the current character already exists, remove s.charAt(left) and increment left
+    4. Add the current character to the set
+    5. Calculate current length as right - left + 1
+    6. Update maxLength using Math.max()
+    7. Return maxLength */
