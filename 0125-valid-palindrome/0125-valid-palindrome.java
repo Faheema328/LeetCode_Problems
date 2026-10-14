@@ -25,8 +25,7 @@ class Solution {
 }
 /* Practical Approach:
     Use two pointers, one starting from the beginning and one from the end of the string
-    Move the left pointer forward and the right pointer backward until we find
-    valid alphanumeric characters (letters or digits)
+    Move the left pointer forward and the right pointer backward until we find valid alphanumeric characters (letters or digits)
     Compare both characters after converting them to lowercase
     If they are different, the string is not a palindrome
     Continue this process until both pointers meet or cross each other
