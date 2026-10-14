@@ -8,11 +8,11 @@ class Solution {
     public int firstUniqChar(String s) {
         int count[]=new int[26];//Array with 26 positions for the lowercase letters from a to z-->Each position stores how many times that char appears
         for(int i=0;i<s.length();i++){//First pass-→ Count the frequency of every char
-            count[s.charAt(i)-'a']++;//s.charAt(i) gets the curr char(of the string)-->Subtracting 'a' from the curr char converts it into an index-->Increase the count at that char's index
+            count[s.charAt(i)-'a']++;//s.charAt(i) gets the curr char(of the string)--->Subtracting 'a' from the curr char converts it into an index-->Increase the count at that char's index
         }
         for(int j=0;j<s.length();j++){//Second pass-→ Check chars in their original order-->This helps us find the 1st char that appears only once
             if(count[s.charAt(j)-'a']==1){//Get the count of the curr char
-                return j;//The curr char appears exactly once-->Return its index bcoz it is the 1st unique char
+                return j;//If the curr char appears exactly once-->Return its index bcoz it is the 1st unique char
             }
         }
         return -1;//No char appears exactly once
